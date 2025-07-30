@@ -10,7 +10,7 @@ public class crafting {
             for (int i = 0; i < n; i++) {
                 a[i] = sc.nextInt();
             }
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++) {           //O(n)=Time complexity
                 b[i] = sc.nextInt();
             }
             boolean flag=true;
